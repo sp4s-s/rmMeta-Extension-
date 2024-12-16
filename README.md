@@ -1,6 +1,7 @@
 # 📸 rmMeta-Extension  
 🚀 **Removes image tag metadata, keeping only the `src` attribute for clean display.**  
-sample piece no License 
+License is 
+same as other repo [License] of same account...
 
 ---
 
