@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Remove Image Metadata",
+    "version": "1.0",
+    "description": "Removes all metadata from img tags except src.",
+    "permissions": ["scripting", "activeTab"],
+    "host_permissions": ["<all_urls>"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
